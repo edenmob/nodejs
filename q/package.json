@@ -1,0 +1,8 @@
+{
+  "name": "sample-q",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": { "q": "1.1.2"
+   },
+  "engine": "node 0.10.x"
+}

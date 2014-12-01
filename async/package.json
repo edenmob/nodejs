@@ -1,0 +1,8 @@
+{
+  "name": "sample-async",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": { "async": "0.9.0"
+   },
+  "engine": "node 0.10.x"
+}
